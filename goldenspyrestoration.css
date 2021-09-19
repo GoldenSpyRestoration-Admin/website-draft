@@ -201,15 +201,8 @@ header, nav, main, footer {
         font-size: 20px;
     }
 
-    /* MODAL CONTENT */
-    .modal-content {
-        padding: 5px;
-        width: 80%;
-        height: 700px;
-    }
-
     .webform-lead-contact {
-        height: 700px;
+        height: 1000px;
     }
 
 
@@ -249,7 +242,7 @@ header, nav, main, footer {
         h1 {
             padding-left: 0.1em;
             padding-top: 1em;
-            font-size: 28px;
+            font-size: 26px;
         }
 
         h2 {
