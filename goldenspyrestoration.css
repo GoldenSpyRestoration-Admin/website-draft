@@ -1,4 +1,4 @@
-﻿body {
+body {
     font-family: Verdana, Arial, san-serif;
     background-color: #1C0001;
     color: #F7EDDB;
@@ -237,13 +237,13 @@ header, nav, main, footer {
         }
 
         h1 {
-            padding-left: 1.25em;
+            padding-left: .95em;
             padding-top: 1em;
             font-size: 28px;
         }
 
         h2 {
-            padding-left: 5.5em;
+            padding-left: 4em;
             font-size: 100%
         }
 
