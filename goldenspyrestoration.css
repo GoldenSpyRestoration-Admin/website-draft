@@ -237,13 +237,13 @@ header, nav, main, footer {
         }
 
         h1 {
-            padding-left: .95em;
+            padding-left: 0.5em;
             padding-top: 1em;
             font-size: 28px;
         }
 
         h2 {
-            padding-left: 4em;
+            padding-left: 3.5em;
             font-size: 100%
         }
 
