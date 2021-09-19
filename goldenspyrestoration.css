@@ -205,6 +205,7 @@ header, nav, main, footer {
     .modal-content {
         padding: 5px;
         width: 80%;
+        height: 700px;
     }
 
     .webform-lead-contact {
@@ -246,13 +247,13 @@ header, nav, main, footer {
         }
 
         h1 {
-            padding-left: 0.5em;
+            padding-left: 0.1em;
             padding-top: 1em;
             font-size: 28px;
         }
 
         h2 {
-            padding-left: 3.5em;
+            padding-left: 3em;
             font-size: 100%
         }
 
