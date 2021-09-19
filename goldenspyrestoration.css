@@ -201,6 +201,15 @@ header, nav, main, footer {
         font-size: 20px;
     }
 
+    /* MODAL CONTENT */
+    .modal-content {
+        padding: 5px;
+        width: 80%;
+    }
+
+    .webform-lead-contact {
+        height: 700px;
+    }
 
 
 
