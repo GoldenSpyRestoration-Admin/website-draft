@@ -320,7 +320,7 @@ header, nav, main, footer {
 
         /* MODAL CONTENT */
         .modal-content {
-            padding: 2.5px;
+            padding: 0;
             width: 90%;
         }
 
