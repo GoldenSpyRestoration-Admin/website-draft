@@ -1,19 +1,18 @@
 body {
     font-family: Verdana, Arial, san-serif;
-    background-color: #A87A56;
+    background-color: #1C0001;
     color: #F7EDDB;
 }
 
 header {
-    background-image: url(logo2.png);
+    background-image: url(new-logo3.png);
     background-repeat: no-repeat;
     background-position: left;
-    padding-top: 2em;
-    height: 200px;
+    height: 265px;
     width: 100%;
 }
 
-h1 {
+/*h1 {
     padding-left: 5.5em;
     padding-top: .25em;
     font-size: 44px;
@@ -26,15 +25,15 @@ h2 {
     font-size: 24px;
     color: #1C0001;
     text-align: center;
-}
+}*/
 
 #wrapper {
-    width: 80%;
     margin-left: auto;
     margin-right: auto;
-    background-color: #FCDFBD;
+    background-color: #F7EDDB;
     min-width: 1000px;
     max-width: 1280px;
+    border: 3px solid #F7EDDB;
 }
 
 /*NAVIGATION*/
@@ -44,23 +43,25 @@ nav {
 
 .topnav {
     overflow: hidden;
-    background-color: #A87A56;
+    background-color: #F7EDDB;
 }
 
     .topnav a {
         float: left;
         display: block;
-        color: #F7EDDB;
+        color: #1C0001;
         font-weight: bold;
         text-align: center;
         padding: 14px 75px;
         text-decoration: none;
         font-size: 16px;
+        border: 3px solid #1C0001;
     }
 
 .active {
-    background-color: #F7EDDB;
-    color: #1C0001 !important;
+    background-color: #1C0001;
+    color: #F7EDDB !important;
+    border: 3px outset #F2CFA7;
 }
 
 .topnav .icon {
@@ -82,12 +83,12 @@ main {
 }
 
 .container-top {
-    background-image: url(suit.jpeg);
+    background-image: url(suit.jpeg);    
     background-repeat: no-repeat;
     background-position: center;
     height: 300px;
     width: 100%;
-    zoom: 1.3;
+    zoom: 1.3;    
 }
 
 .container-mid {
@@ -105,7 +106,7 @@ main {
     text-align: center;
     font-size: 40px;
     font-weight: bold;
-    color: #A87A56;
+    color: #1C0001;
 }
 
 .signup {
@@ -130,16 +131,16 @@ main {
     padding-top: 0;
     height: 3.5em;
     width: 100%;
-    background-color: #A87A56;
+    background-color: #1C0001;
 }
 
-footer {
-    padding-top: 1em;
+footer {    
+    padding: 1em;
     background-color: #F2CFA7;
     font-size: 1em;
     text-align: center;
     font-style: italic;
-    color: #A87A56;
+    color: #1C0001;
 }
 
 .modal {
@@ -181,7 +182,7 @@ footer {
     }
 
 .myBtn_multi {
-    background-color: #A87A56;
+    background-color: #1C0001;
     border: none;
     color: #F7EDDB;
     padding: 15px 32px;
@@ -205,7 +206,7 @@ footer {
 }
 
 .myBtn_multi-three {
-    background-color: #A87A56;
+    background-color: #1C0001;
     border: none;
     color: #F7EDDB;
     padding: 15px 32px;
@@ -232,6 +233,10 @@ footer {
 
 header, nav, main, footer {
     display: block;
+}
+
+#clear {
+    clear: both;
 }
 
 #desktop {
