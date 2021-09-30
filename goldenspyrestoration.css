@@ -1,6 +1,10 @@
 body {
     font-family: Verdana, Arial, san-serif;
-    background-color: #1C0001;
+    background: url(background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     color: #F7EDDB;
 }
 
@@ -16,14 +20,14 @@ header {
     padding-left: 5.5em;
     padding-top: .25em;
     font-size: 44px;
-    color: #1C0001;
+    color: ##523F40;
     text-align: center;
 }
 
 h2 {
     padding-left: 8em;
     font-size: 24px;
-    color: #1C0001;
+    color: #523F40;
     text-align: center;
 }*/
 
@@ -49,17 +53,17 @@ nav {
     .topnav a {
         float: left;
         display: block;
-        color: #1C0001;
+        color: #523F40;
         font-weight: bold;
         text-align: center;
         padding: 14px 75px;
         text-decoration: none;
         font-size: 16px;
-        border: 3px solid #1C0001;
+        border: 3px solid #523F40;
     }
 
 .active {
-    background-color: #1C0001;
+    background-color: #523F40;
     color: #F7EDDB !important;
     border: 3px outset #F2CFA7;
 }
@@ -70,7 +74,7 @@ nav {
 
 .topnav a:hover {
     background-color: #F2CFA7;
-    color: #1C0001;
+    color: #523F40;
 }
 
 /*PAGE CONTENTS*/
@@ -106,7 +110,7 @@ main {
     text-align: center;
     font-size: 40px;
     font-weight: bold;
-    color: #1C0001;
+    color: #523F40;
 }
 
 .signup {
@@ -131,7 +135,7 @@ main {
     padding-top: 0;
     height: 3.5em;
     width: 100%;
-    background-color: #1C0001;
+    background-color: #523F40;
 }
 
 footer {
@@ -140,7 +144,7 @@ footer {
     font-size: 1em;
     text-align: center;
     font-style: italic;
-    color: #1C0001;
+    color: #523F40;
 }
 
 .modal {
@@ -153,7 +157,7 @@ footer {
     width: 100%; /* Full width */
     height: 100%; /* Full height */
     overflow: auto; /* Enable scroll if needed */
-    color: #1C0001;
+    color: #523F40;
 }
 
 /* MODAL CONTENT */
@@ -182,7 +186,7 @@ footer {
     }
 
 .myBtn_multi {
-    background-color: #1C0001;
+    background-color: #523F40;
     border: none;
     color: #F7EDDB;
     padding: 15px 32px;
@@ -206,7 +210,7 @@ footer {
 }
 
 .myBtn_multi-three {
-    background-color: #1C0001;
+    background-color: #523F40;
     border: none;
     color: #F7EDDB;
     padding: 15px 32px;
@@ -337,13 +341,13 @@ header, nav, main, footer {
         }
 
         .topnav {
-            background-color: #1C0001;
+            background-color: #523F40;
             color: #F7EDDB !important;
         }
 
             .topnav a {
                 padding: 14px 16px;
-                background-color: #1C0001;
+                background-color: #523F40;
             }
 
             .topnav.responsive .icon {
@@ -353,7 +357,7 @@ header, nav, main, footer {
             }
 
         .active {
-            background-color: #1C0001;
+            background-color: #523F40;
             color: #F7EDDB !important;
         }
 
@@ -374,7 +378,7 @@ header, nav, main, footer {
 
             .topnav.responsive a:hover {
                 background-color: #F2CFA7 !important;
-                color: #1C0001 !important;
+                color: #523F40 !important;
             }
 
         main {
