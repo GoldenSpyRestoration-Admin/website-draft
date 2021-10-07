@@ -509,7 +509,7 @@ header, nav, main, footer {
 
         .spacer-left {
             float: left;
-            width: 30%;
+            width: 25%;
             padding: 0;
             height: 200px;
             text-align: center;
@@ -521,7 +521,7 @@ header, nav, main, footer {
 
         .spacer-center {
             float: left;
-            width: 30%;
+            width: 25%;
             padding: 0;
             height: 200px;
             text-align: center;
@@ -533,7 +533,7 @@ header, nav, main, footer {
 
         .spacer-right {
             float: left;
-            width: 30%;
+            width: 25%;
             padding: 0;
             height: 200px;
             text-align: center;
