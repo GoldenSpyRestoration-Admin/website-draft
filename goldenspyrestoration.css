@@ -417,6 +417,105 @@ header, nav, main, footer {
             background-color: #523F40;
             color: #F7EDDB;
         }
+        
+        .container-mid {
+            height: 350px;
+            width: 100%;
+        }
+
+        .inner-mid-left {
+            background-image: url(debt-meme.2.jpg);
+            background-repeat: no-repeat;
+            background-position: left;
+            float: left;
+            margin-left: 0;
+            width: 65%;
+            height: 275px;
+            margin-top: 1.75em;
+        }
+
+        .inner-mid-right {
+            float: left;
+            width: 35%;
+            height: 250px;
+            margin-left: 0;
+            margin-top: 1.5em;
+        }
+
+        .start {
+            text-transform: uppercase;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .learn {
+            padding-right: 5em;
+            padding-top: 0;
+            float: left;
+        }
+
+        .learn-mid {
+            padding-left: 5em;
+            padding-top: 10em;
+            float: left;
+        }
+
+        .container-bottom {
+            padding-top: 0;
+            height: 200px;
+            width: 100%;
+            background-color: #523F40;
+        }
+
+        .review {
+            color: #F7EDDB;
+            text-align: center;
+            padding-top: 1em;
+            margin-left: 2em;
+            margin-right: 2em;
+            font-size: 20px;
+        }
+
+        h4 {
+            text-transform: uppercase;
+        }
+
+        /* MODAL CONTENT */
+        .modal-content {
+            padding: 0;
+            width: 90%;
+        }
+
+        /* CLOSE BUTTON */
+        .close {
+            font-size: 18px;
+        }
+
+        .myBtn_multi {
+            padding: 10px 22px;
+            font-size: 14px;
+        }
+
+        .myBtn_multi-two {
+            padding: 10px 22px;
+            font-size: 14px;
+        }
+
+        h3 {
+            font-size: 18px;
+        }
+
+        h4 {
+            font-size: 14px;
+        }
+
+        p {
+            font-size: 12px;
+        }
+
+        .webform-lead-contact {
+            height: 1000px;
+        }
     }
 
     @media screen and (max-width: 800px) {
