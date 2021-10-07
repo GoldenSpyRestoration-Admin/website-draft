@@ -465,8 +465,7 @@ header, nav, main, footer {
 
         .container-top {
             background-image: url(IMG_1578.2.JPG);
-            background-repeat: no-repeat;
-            background-size: cover;
+            background-repeat: no-repeat;            
             background-position: bottom;
             height: 300px;
             width: 100%;
@@ -502,7 +501,7 @@ header, nav, main, footer {
 
         .spacer {
             padding-top: 0;
-            height: 325px;
+            height: 350px;
             width: 100%;
             background-color: #523F40;
         }
@@ -510,7 +509,7 @@ header, nav, main, footer {
         .spacer-left {
             float: left;
             width: 25%;
-            padding: 0 0.5em;
+            padding: 0 1em;
             height: 225px;
             text-align: center;
             justify-content: center;
@@ -522,7 +521,7 @@ header, nav, main, footer {
         .spacer-center {
             float: left;
             width: 25%;
-            padding: 0 0.5em;
+            padding: 0 1em;
             height: 225px;
             text-align: center;
             justify-content: center;
@@ -534,7 +533,7 @@ header, nav, main, footer {
         .spacer-right {
             float: left;
             width: 25%;
-            padding: 0 0.5em;
+            padding: 0 1em;
             height: 225px;
             text-align: center;
             justify-content: center;
@@ -595,7 +594,7 @@ header, nav, main, footer {
         .review {
             color: #F7EDDB;
             text-align: center;
-            padding-top: 0;
+            padding-top: 1em;
             margin-left: 2em;
             margin-right: 2em;
             font-size: 20px;
