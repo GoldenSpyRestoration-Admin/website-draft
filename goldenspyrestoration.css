@@ -502,7 +502,7 @@ header, nav, main, footer {
 
         .spacer {
             padding-top: 0;
-            height: 300px;
+            height: 325px;
             width: 100%;
             background-color: #523F40;
         }
@@ -595,7 +595,7 @@ header, nav, main, footer {
         .review {
             color: #F7EDDB;
             text-align: center;
-            padding-top: 3em;
+            padding-top: 0;
             margin-left: 2em;
             margin-right: 2em;
             font-size: 20px;
