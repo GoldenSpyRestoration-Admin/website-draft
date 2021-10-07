@@ -386,6 +386,37 @@ header, nav, main, footer {
             color: #F7EDDB;
             float: right;
         }
+        
+         .spacer {
+            padding-top: 0;
+            height: 350px;
+            width: 100%;
+            background-color: #523F40;
+        }
+
+        .spacer-left {
+            float: left;
+            width: 25%;
+            padding: 0 1em;
+            height: 225px;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            background-color: #523F40;
+            color: #F7EDDB;
+        }
+
+        .spacer-center {
+            float: left;
+            width: 25%;
+            padding: 0 1em;
+            height: 225px;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            background-color: #523F40;
+            color: #F7EDDB;
+        }
     }
 
     @media screen and (max-width: 800px) {
