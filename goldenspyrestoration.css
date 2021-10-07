@@ -366,7 +366,6 @@ header, nav, main, footer {
     .container-mid {
         height: 400px;
         width: 100%;
-        zoom: 1.3;
     }
 
     .learn-mid {
