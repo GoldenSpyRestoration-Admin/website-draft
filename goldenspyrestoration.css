@@ -510,8 +510,8 @@ header, nav, main, footer {
         .spacer-left {
             float: left;
             width: 25%;
-            padding: 0;
-            height: 200px;
+            padding: 0 0.5em;
+            height: 225px;
             text-align: center;
             justify-content: center;
             align-items: center;
@@ -522,8 +522,8 @@ header, nav, main, footer {
         .spacer-center {
             float: left;
             width: 25%;
-            padding: 0;
-            height: 200px;
+            padding: 0 0.5em;
+            height: 225px;
             text-align: center;
             justify-content: center;
             align-items: center;
@@ -534,8 +534,8 @@ header, nav, main, footer {
         .spacer-right {
             float: left;
             width: 25%;
-            padding: 0;
-            height: 200px;
+            padding: 0 0.5em;
+            height: 225px;
             text-align: center;
             justify-content: center;
             align-items: center;
