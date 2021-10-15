@@ -771,19 +771,22 @@ header, nav, main, footer {
         }
 
         .call {
-            float: right;
+            float: left;
             text-transform: uppercase;
-            font-size: 20px;
-            margin-right: 2.5em;
-            margin-top: 0.25em;
+            font-size: 16px;
+            margin-left: 3em;
+            margin-top: 6.5em;
         }
 
         .phone {
-            float: right;
-            margin: 2em -9.5em;                       
-            padding: 10px 22px;                        
+            float: left;
+            margin-top: 8em;
+            margin-left: -15em;
+            padding: 10px 16px;                        
             display: inline-block;
             border-radius: 4px;
+            font-size: 16px;
+            color: white;
         }
 
         .container-top {                
