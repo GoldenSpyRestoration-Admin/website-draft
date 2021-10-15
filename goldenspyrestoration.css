@@ -716,19 +716,6 @@ header, nav, main, footer {
             width: 100%;
         }
 
-        h1 {
-            padding-left: 0.2em;
-            padding-top: 1em;
-            font-size: 26px;
-            text-align: center;
-        }
-
-        h2 {
-            padding-left: 1em;
-            font-size: 100%;
-            text-align: center;
-        }
-
         .topnav {
             background-color: #523F40;
             color: #F7EDDB !important;
@@ -830,12 +817,12 @@ header, nav, main, footer {
         }
 
         h1 {
-            padding: 25px 20px 15px 20px;
+            padding: 15px 20px 15px 20px;
         }
 
         .spacer {
             padding-top: 0;
-            height: 375px;
+            height: 425px;
             width: 100%;
             background-color: #523F40;
         }
