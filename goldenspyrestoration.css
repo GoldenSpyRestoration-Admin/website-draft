@@ -793,12 +793,12 @@ header, nav, main, footer {
         }
 
         .container-top-about {
-            height: 200px;
+            height: 150px;
         }
 
         .about {
             padding-top: 0.50em;
-            font-size: 50px;
+            font-size: 40px;
         }
 
         .inner-top {            
