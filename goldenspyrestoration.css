@@ -784,7 +784,7 @@ header, nav, main, footer {
         }
 
         .container-mid-about {
-            height: 1300px;
+            height: 1400px;
         }
 
         img {
@@ -802,8 +802,7 @@ header, nav, main, footer {
         .container-mid-about-left {
             padding: 0 1em;
             width: 95%;
-            height: 900px;
-            background-color: red;
+            height: 750px;            
         }
 
         .container-mid-about-right {
