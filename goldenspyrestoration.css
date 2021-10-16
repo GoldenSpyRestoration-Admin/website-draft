@@ -835,12 +835,12 @@ header, nav, main, footer {
         .spacer {
             padding-top: 0;
             height: 530px;
-            width: 80%;
+            width: 100%;
             background-color: #523F40;
         }
 
         .spacer-left {
-            width: 100%;
+            width: 80%;
             padding: 0.5em;
             height: 175px;
             text-align: center;
@@ -851,7 +851,7 @@ header, nav, main, footer {
         }
 
         .spacer-center {
-            width: 100%;
+            width: 80%;
             padding: 0.5em;
             height: 175px;
             text-align: center;
@@ -862,7 +862,7 @@ header, nav, main, footer {
         }
 
         .spacer-right {
-            width: 100%;
+            width: 80%;
             padding: 0.5em;
             height: 175px;
             text-align: center;
