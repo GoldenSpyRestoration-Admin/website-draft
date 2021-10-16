@@ -939,6 +939,10 @@ header, nav, main, footer {
         background-image: url(debt-meme.2.3.jpg);
     }
 
+    .inner-mid-right {
+        width: 60%;
+    }
+
     .container-mid-about-right {
         padding: 1em;
         height: 650px;
@@ -959,10 +963,10 @@ header, nav, main, footer {
     }
 
     .container-mid-affiliates-left {
-        padding: 0;
+        padding: 0 0 0 1em;
     }
 
     .container-bottom-affiliates-left {
-        padding: 0;
+        padding: 0 0 0 1em;
     }
 }
