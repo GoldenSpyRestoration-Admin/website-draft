@@ -871,7 +871,7 @@ header, nav, main, footer {
 
         .inner-top {
             padding-top: 1em;
-            padding-left: 1em;
+            padding-left: 0;
         }
 
         .smile {
