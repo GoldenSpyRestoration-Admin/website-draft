@@ -823,12 +823,20 @@ header, nav, main, footer {
             height: 275px;
         }
 
+        .re-direct-sc {
+            padding-top: 6em;            
+        }
+
+        .re-direct-rr {
+            padding-top: 11em;
+        }
+
         .container-mid-affiliates {
             height: 400px;
         }
 
         .container-mid-affiliates-left {
-            height: 85px;
+            height: 100px;
             width: 100%;
             padding: 0 0 0 4em;            
         }
@@ -843,7 +851,7 @@ header, nav, main, footer {
         }
 
         .container-bottom-affiliates-left {
-            height: 150px;
+            height: 175px;
             width: 100%;
             padding: 0 0 0 4em;
         }
