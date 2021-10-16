@@ -791,23 +791,23 @@ header, nav, main, footer {
         }
 
         .container-mid-work {
-            height: 375px;
+            height: 275px;
         }
 
         .inner-mid-left-work {
             background-image: url(debt-meme2.2.jpg);
             margin-left: -0.25em;
             width: 40%;
-            height: 275px;
-            margin-top: 1.75em;
+            height: 250px;
+            margin-top: 0;
             zoom: -1;
         }
 
         .inner-mid-right-work {
             width: 50%;
-            height: 250px;
+            height: 175px;
             margin-left: 1em;
-            margin-top: 1.5em;
+            margin-top: 3.5em;
         }
 
         .start {
