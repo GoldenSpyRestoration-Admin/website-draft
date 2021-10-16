@@ -818,7 +818,7 @@ header, nav, main, footer {
         .phone {
             float: left;
             margin-top: 8em;
-            margin-left: -15em;
+            margin-left: -10em;
             padding: 10px 16px;
             display: inline-block;
             border-radius: 4px;
@@ -1104,12 +1104,18 @@ header, nav, main, footer {
 
     .call {
         margin-left: 3.5em;
-        margin-top: 9em;
+        margin-top: 8.75em;
     }
 
     .phone {
-        margin-top: 8.5em;
-        margin-left: -0.5em;        
+        margin-top: 9.5em;
+        margin-left: -1.5em;
+        padding: 8px 14px;
+        font-size: 14px;
+    }
+
+    .container-top {
+        margin-top: 2em;
     }
 
     .inner-mid-left {
