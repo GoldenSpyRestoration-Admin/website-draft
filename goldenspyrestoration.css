@@ -937,10 +937,11 @@ header, nav, main, footer {
 
     .inner-mid-left {
         background-image: url(debt-meme.2.3.jpg);
+        width: 35%;
     }
 
     .inner-mid-right {
-        width: 60%;
+        width: 50%;
     }
 
     .container-mid-about-right {
@@ -963,10 +964,10 @@ header, nav, main, footer {
     }
 
     .container-mid-affiliates-left {
-        padding: 0 0 0 1em;
+        padding: 0 0 0 3em;
     }
 
     .container-bottom-affiliates-left {
-        padding: 0 0 0 1em;
+        padding: 0 0 0 3em;
     }
 }
