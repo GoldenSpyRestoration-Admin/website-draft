@@ -559,142 +559,6 @@ header, nav, main, footer {
     }
 
     @media screen and (max-width: 800px) {
-        .topnav a:not(.active) {
-            display: none;
-        }
-
-        .topnav a.icon {
-            display: block;
-            color: #F7EDDB;
-            float: right;
-        }
-
-        .spacer {
-            padding-top: 0;
-            height: 350px;
-            width: 100%;
-            background-color: #523F40;
-        }
-
-        .spacer-left {
-            float: left;
-            width: 25%;
-            padding: 0 1em;
-            height: 225px;
-            text-align: center;
-            justify-content: center;
-            align-items: center;
-            background-color: #523F40;
-            color: #F7EDDB;
-        }
-
-        .spacer-center {
-            float: left;
-            width: 25%;
-            padding: 0 1em;
-            height: 225px;
-            text-align: center;
-            justify-content: center;
-            align-items: center;
-            background-color: #523F40;
-            color: #F7EDDB;
-        }
-
-        .container-mid {
-            height: 350px;
-            width: 100%;
-        }
-
-        .inner-mid-left {
-            background-image: url(debt-meme.2.jpg);
-            background-repeat: no-repeat;
-            background-position: left;
-            float: left;
-            margin-left: 0;
-            width: 65%;
-            height: 275px;
-            margin-top: 1.75em;
-        }
-
-        .inner-mid-right {
-            float: left;
-            width: 35%;
-            height: 250px;
-            margin-left: 0;
-            margin-top: 1.5em;
-        }
-
-        .start {
-            text-transform: uppercase;
-            font-size: 12px;
-            font-weight: bold;
-        }
-
-        .learn {
-            padding-right: 5em;
-            padding-top: 0;
-            float: left;
-        }
-
-        .container-bottom {
-            padding-top: 0;
-            height: 200px;
-            width: 100%;
-            background-color: #523F40;
-        }
-
-        .review {
-            color: #F7EDDB;
-            text-align: center;
-            padding-top: 1em;
-            margin-left: 2em;
-            margin-right: 2em;
-            font-size: 20px;
-        }
-
-        h4 {
-            text-transform: uppercase;
-        }
-
-        /* MODAL CONTENT */
-        .modal-content {
-            padding: 0;
-            width: 90%;
-        }
-
-        /* CLOSE BUTTON */
-        .close {
-            font-size: 18px;
-        }
-
-        .myBtn_multi {
-            padding: 10px 22px;
-            font-size: 14px;
-        }
-
-        .myBtn_multi-two {
-            padding: 10px 22px;
-            font-size: 14px;
-        }
-
-        h3 {
-            font-size: 18px;
-        }
-
-        h4 {
-            font-size: 14px;
-        }
-
-        p {
-            font-size: 12px;
-        }
-
-        .webform-lead-contact {
-            height: 1000px;
-        }
-    }
-
-    @media screen and (max-width: 800px) {
         body {
             margin: 0;
             padding: 0;
@@ -712,6 +576,16 @@ header, nav, main, footer {
             background-image: url(new-logo3.2.png);
             padding: 0.02em;
             height: 150px;
+        }
+
+        .topnav a:not(.active) {
+            display: none;
+        }
+
+        .topnav a.icon {
+            display: block;
+            color: #F7EDDB;
+            float: right;
         }
 
         .topnav {
@@ -858,6 +732,7 @@ header, nav, main, footer {
 
         .spacer-left {
             width: 93%;
+            padding: 1em 1em 0 1em;
             height: 175px;
         }
 
@@ -995,3 +870,4 @@ header, nav, main, footer {
         .webform-lead-contact {
             height: 1000px;
         }
+    }
