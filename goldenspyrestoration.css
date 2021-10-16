@@ -115,6 +115,9 @@ main {
 }
 
 .inner-top-work-right {
+    background-image: url(debt-meme5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
     float: left;
     width: 35%;
     padding: 1em 2em 0 2em;
@@ -133,6 +136,9 @@ main {
 }
 
 .inner-top-work-left {
+    background-image: url(debt-meme1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
     float: left;
     width: 35%;
     padding: 1em 2em 0 2em;
@@ -380,12 +386,6 @@ img {
     float: left;
 }
 
-/*.learn-mid {
-    padding-left: 5em;
-    padding-top: 10em;
-    float: left;
-}*/
-
 .container-bottom {
     padding-top: 0;
     height: 200px;
@@ -622,7 +622,7 @@ header, nav, main, footer {
             height: 250px;
             margin-left: 0;
             margin-top: 1.5em;
-        }
+        }       
 
         .start {
             text-transform: uppercase;
@@ -885,6 +885,50 @@ header, nav, main, footer {
         }
 
         .inner-mid-right {
+            width: 45%;
+            height: 250px;
+            margin-left: 1em;
+            margin-top: 1.5em;
+        }
+
+        .container-top-work {
+            height: 850px;
+        }
+
+        .inner-top-work-right {
+            background-image: url(debt-meme5.2.jpg);
+            width: 100%;
+            padding: 0;
+            height: 275px;
+        }
+
+        .inner-top-work-center {
+            width: 100%;
+            padding: 0 0 0 8em;
+            height: 275px;
+        }
+
+        .inner-top-work-left {
+            background-image: url(debt-meme1.2.jpg);
+            width: 100%;
+            padding: 0;
+            height: 275px;
+        }
+
+        .container-mid-work {
+            height: 375px;
+        }
+
+        .inner-mid-left-work {
+            background-image: url(debt-meme2.2.jpg);
+            margin-left: 0.5em;
+            width: 45%;
+            height: 275px;
+            margin-top: 1.75em;
+            zoom: -1;
+        }
+
+        .inner-mid-right-work {
             width: 45%;
             height: 250px;
             margin-left: 1em;
