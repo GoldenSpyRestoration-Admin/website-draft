@@ -568,8 +568,8 @@ header, nav, main, footer {
             color: #F7EDDB;
             float: right;
         }
-        
-         .spacer {
+
+        .spacer {
             padding-top: 0;
             height: 350px;
             width: 100%;
@@ -599,7 +599,7 @@ header, nav, main, footer {
             background-color: #523F40;
             color: #F7EDDB;
         }
-        
+
         .container-mid {
             height: 350px;
             width: 100%;
@@ -711,14 +711,13 @@ header, nav, main, footer {
             min-width: 0;
             margin: 0;
             padding: 0;
-            border: none;            
+            border: none;
         }
 
         header {
             background-image: url(new-logo3.2.png);
             padding: 0.02em;
             height: 150px;
-            width: 100%;
         }
 
         .topnav {
@@ -757,14 +756,13 @@ header, nav, main, footer {
             position: relative;
         }
 
-        .topnav.responsive a:hover {
-            background-color: #F2CFA7 !important;
-            color: #523F40 !important;
-        }
+            .topnav.responsive a:hover {
+                background-color: #F2CFA7 !important;
+                color: #523F40 !important;
+            }
 
         .call {
             float: left;
-            text-transform: uppercase;
             font-size: 16px;
             margin-left: 3em;
             margin-top: 6.5em;
@@ -774,19 +772,17 @@ header, nav, main, footer {
             float: left;
             margin-top: 8em;
             margin-left: -15em;
-            padding: 10px 16px;                        
+            padding: 10px 16px;
             display: inline-block;
             border-radius: 4px;
-            font-size: 16px;            
         }
 
             .phone a {
                 color: white;
             }
 
-        .container-top {                
+        .container-top {
             height: 300px;
-            width: 100%;
         }
 
         .container-top-about {
@@ -798,19 +794,17 @@ header, nav, main, footer {
             font-size: 30px;
         }
 
-        .inner-top {            
+        .inner-top {
             padding-top: 1em;
             padding-left: 1em;
         }
 
         .smile {
             font-size: 28px;
-            text-transform: uppercase;
         }
 
         .down {
             font-size: 12px;
-            text-transform: uppercase;
         }
 
         ul li {
@@ -819,9 +813,7 @@ header, nav, main, footer {
         }
 
         .contact {
-            padding-right: 5em;
             padding-top: 0;
-            float: left;
         }
 
         h1 {
@@ -845,51 +837,31 @@ header, nav, main, footer {
         .spacer-left {
             width: 93%;
             height: 175px;
-            text-align: center;
-            justify-content: center;
-            align-items: center;
-            background-color: #523F40;
-            color: #F7EDDB;
         }
 
         .spacer-center {
             width: 93%;
             height: 175px;
-            text-align: center;
-            justify-content: center;
-            align-items: center;
-            background-color: #523F40;
-            color: #F7EDDB;
         }
 
         .spacer-right {
             width: 93%;
             height: 175px;
-            text-align: center;
-            justify-content: center;
-            align-items: center;
-            background-color: #523F40;
-            color: #F7EDDB;
         }
 
         .container-mid {
             height: 350px;
-            width: 100%;
         }
 
         .inner-mid-left {
             background-image: url(debt-meme.2.jpg);
-            background-repeat: no-repeat;
-            background-position: left;
-            float: left;
-            margin-left: 0;
+            margin-left: 0.5em;
             width: 45%;
             height: 275px;
             margin-top: 1.75em;
         }
 
         .inner-mid-right {
-            float: left;
             width: 40%;
             height: 250px;
             margin-left: 1em;
@@ -897,15 +869,7 @@ header, nav, main, footer {
         }
 
         .start {
-            text-transform: uppercase;
             font-size: 12px;
-            font-weight: bold;
-        }
-
-        .learn {
-            padding-right: 5em;
-            padding-top: 0;
-            float: left;
         }
 
         .learn-mid {
@@ -915,14 +879,11 @@ header, nav, main, footer {
         }
 
         .container-bottom {
-            padding-top: 0;
             height: 150px;
-            width: 100%;
-            background-color: #523F40;
         }
 
-        .review {            
-            padding-top: 1em;            
+        .review {
+            padding-top: 1em;
             font-size: 16px;
         }
 
@@ -935,7 +896,7 @@ header, nav, main, footer {
             padding: 0;
             width: 90%;
         }
-        
+
         /* CLOSE BUTTON */
         .close {
             font-size: 18px;
