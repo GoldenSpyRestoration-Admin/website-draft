@@ -339,7 +339,8 @@ img {
     float: left;
     height: 85px;
     width: 30%;
-    padding: 3em 0 3em 2.5em;
+    padding: 4.5em 0 3em 2.5em;
+    background-color: red;
 }
 
 .container-mid-affiliates-right {
@@ -358,7 +359,7 @@ img {
     float: left;
     height: 150px;
     width: 30%;
-    padding: 1em 0 4em 2.5em;
+    padding: 1.5em 0 4em 2.5em;
 }
 
 .container-bottom-affiliates-right {
@@ -821,6 +822,12 @@ header, nav, main, footer {
         .container-bottom-about {
             background-image: url(certified.2.jpeg);
             height: 275px;
+        }
+
+        .container-mid-affiliates-left {
+            height: 85px;
+            width: 100%;
+            padding: 0 0 0 8em;            
         }
 
         .review {
