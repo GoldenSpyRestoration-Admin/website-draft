@@ -823,17 +823,34 @@ header, nav, main, footer {
             height: 275px;
         }
 
+        .container-mid-affiliates {
+            height: 400px;
+        }
+
         .container-mid-affiliates-left {
             height: 85px;
             width: 100%;
             padding: 0 0 0 4em;            
         }
 
+        .container-mid-affiliates-right {
+            width: 95%;
+            padding: 1em;
+        }
+
+        .container-bottom-affiliates {
+            height: 500px;
+        }
+
         .container-bottom-affiliates-left {
             height: 150px;
             width: 100%;
             padding: 0 0 0 4em;
-            background-color: red;
+        }
+
+        .container-bottom-affiliates-right {
+            width: 95%;
+            padding: 1em;
         }
 
         .review {
