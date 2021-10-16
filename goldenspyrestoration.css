@@ -825,14 +825,12 @@ header, nav, main, footer {
 
         .re-direct-sc {
             padding-top: 6em;
-            padding-left: 2em;
-            text-align: left;
+            text-align: center;
         }
 
         .re-direct-rr {
-            padding-top: 11em;
-            padding-left: 2em;
-            text-align: left;
+            padding-top: 11em;            
+            text-align: center;
         }
 
         .container-mid-affiliates {
@@ -842,7 +840,7 @@ header, nav, main, footer {
         .container-mid-affiliates-left {
             height: 100px;
             width: 100%;
-            padding: 0 0 0 4em;            
+            padding: 0 0 0 5em;            
         }
 
         .container-mid-affiliates-right {
@@ -857,7 +855,7 @@ header, nav, main, footer {
         .container-bottom-affiliates-left {
             height: 175px;
             width: 100%;
-            padding: 0 0 0 4em;
+            padding: 0 0 0 5em;
         }
 
         .container-bottom-affiliates-right {
