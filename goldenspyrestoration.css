@@ -752,15 +752,15 @@ header, nav, main, footer {
 
         .inner-mid-left {
             background-image: url(debt-meme.2.jpg);
-            margin-left: 0em;
-            width: 45%;
+            margin-left: -0.25em;
+            width: 40%;
             height: 275px;
             margin-top: 1.75em;
             zoom: -1;
         }
 
         .inner-mid-right {
-            width: 45%;
+            width: 50%;
             height: 250px;
             margin-left: 1em;
             margin-top: 1.5em;
@@ -796,15 +796,15 @@ header, nav, main, footer {
 
         .inner-mid-left-work {
             background-image: url(debt-meme2.2.jpg);
-            margin-left: 0em;
-            width: 45%;
+            margin-left: -0.25em;
+            width: 40%;
             height: 275px;
             margin-top: 1.75em;
             zoom: -1;
         }
 
         .inner-mid-right-work {
-            width: 45%;
+            width: 50%;
             height: 250px;
             margin-left: 1em;
             margin-top: 1.5em;
