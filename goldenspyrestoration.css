@@ -824,11 +824,15 @@ header, nav, main, footer {
         }
 
         .re-direct-sc {
-            padding-top: 6em;            
+            padding-top: 6em;
+            padding-left: 2em;
+            text-align: left;
         }
 
         .re-direct-rr {
             padding-top: 11em;
+            padding-left: 2em;
+            text-align: left;
         }
 
         .container-mid-affiliates {
