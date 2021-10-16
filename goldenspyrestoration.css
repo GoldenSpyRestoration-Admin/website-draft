@@ -725,7 +725,7 @@ header, nav, main, footer {
 
         .spacer {
             padding-top: 0;
-            height: 550px;
+            height: 600px;
             width: 100%;
             background-color: #523F40;
         }
@@ -791,7 +791,7 @@ header, nav, main, footer {
         }
 
         .container-mid-work {
-            height: 300px;
+            height: 325px;
         }
 
         .inner-mid-left-work {
