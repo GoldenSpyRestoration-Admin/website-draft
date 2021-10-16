@@ -822,26 +822,27 @@ header, nav, main, footer {
         }
 
         h1 {
-            padding: 15px 20px 15px 20px;
+            padding: 5px 10px 5px 10px;
+            font-size: 28px;
         }
 
         .spacer-header {
-            font-size: 16px;
+            font-size: 18px;
+            text-transform: uppercase;
             font-weight: bold;
         }
 
         .spacer {
             padding-top: 0;
-            height: 425px;
+            height: 530px;
             width: 100%;
-            background-color: #523F40;
-        }
+/*            background-color: #523F40;
+*/        }
 
         .spacer-left {
-            float: left;
-            width: 25%;
-            padding: 0 1em;
-            height: 225px;
+            width: 100%;
+            padding: 0.5em;
+            height: 175px;
             text-align: center;
             justify-content: center;
             align-items: center;
@@ -850,10 +851,9 @@ header, nav, main, footer {
         }
 
         .spacer-center {
-            float: left;
-            width: 25%;
-            padding: 0 1em;
-            height: 225px;
+            width: 100%;
+            padding: 0.5em;
+            height: 175px;
             text-align: center;
             justify-content: center;
             align-items: center;
@@ -862,10 +862,9 @@ header, nav, main, footer {
         }
 
         .spacer-right {
-            float: left;
-            width: 25%;
-            padding: 0 1em;
-            height: 225px;
+            width: 100%;
+            padding: 0.5em;
+            height: 175px;
             text-align: center;
             justify-content: center;
             align-items: center;
