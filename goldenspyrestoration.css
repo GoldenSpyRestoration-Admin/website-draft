@@ -883,17 +883,17 @@ header, nav, main, footer {
             background-position: left;
             float: left;
             margin-left: 0.5em;
-            width: 50%;
+            width: 45%;
             height: 275px;
             margin-top: 1.75em;
         }
 
         .inner-mid-right {
             float: left;
-            width: 45%;
+            width: 40%;
             height: 250px;
             margin-left: 1em;
-            margin-top: 2em;
+            margin-top: 1.5em;
         }
 
         .start {
@@ -942,13 +942,13 @@ header, nav, main, footer {
         }
 
         .myBtn_multi {
-            padding: 10px 22px;
+            padding: 10px 16px;
             font-size: 14px;
             border-radius: 4px;
         }
 
         .myBtn_multi-two {
-            padding: 10px 22px;
+            padding: 10px 16px;
             font-size: 14px;
             border-radius: 4px;
         }
