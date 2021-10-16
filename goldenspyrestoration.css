@@ -573,8 +573,6 @@ header, nav, main, footer {
 }
 
 @media screen and (max-width: 600px) {
-
-
     .topnav a:not(.active) {
         display: none;
     }
@@ -610,6 +608,11 @@ header, nav, main, footer {
             background-color: #523F40;
             color: #F7EDDB !important;
         }
+
+            .topnav a {
+                padding: 14px 16px;
+                background-color: #523F40;
+            }
 
             .topnav.responsive .icon {
                 position: absolute;
