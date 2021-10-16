@@ -554,7 +554,7 @@ header, nav, main, footer {
     }
 
     .container-mid {
-        height: 400px;
+        height: 375px;
         width: 100%;
     }
 
@@ -791,7 +791,7 @@ header, nav, main, footer {
         }
 
         .container-mid-work {
-            height: 325px;
+            height: 300px;
         }
 
         .inner-mid-left-work {
