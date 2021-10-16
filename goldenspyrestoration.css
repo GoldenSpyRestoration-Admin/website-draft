@@ -803,6 +803,7 @@ header, nav, main, footer {
             padding: 0 1em;
             width: 95%;
             height: 900px;
+            background-color: red;
         }
 
         .container-mid-about-right {
