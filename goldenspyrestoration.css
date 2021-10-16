@@ -882,7 +882,7 @@ header, nav, main, footer {
             background-repeat: no-repeat;
             background-position: left;
             float: left;
-            margin-left: 0.5em;
+            margin-left: 0;
             width: 45%;
             height: 275px;
             margin-top: 1.75em;
