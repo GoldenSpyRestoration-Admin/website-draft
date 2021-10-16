@@ -572,7 +572,21 @@ header, nav, main, footer {
     }
 }
 
-    @media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
+
+
+    .topnav a:not(.active) {
+        display: none;
+    }
+
+    .topnav a.icon {
+        display: block;
+        color: #F7EDDB;
+        float: right;
+    }
+}
+
+    @media screen and (max-width: 600px) {
         body {
             margin: 0;
             padding: 0;
@@ -592,25 +606,10 @@ header, nav, main, footer {
             height: 150px;
         }
 
-        .topnav a:not(.active) {
-            display: none;
-        }
-
-        .topnav a.icon {
-            display: block;
-            color: #F7EDDB;
-            float: right;
-        }
-
         .topnav {
             background-color: #523F40;
             color: #F7EDDB !important;
         }
-
-            .topnav a {
-                padding: 14px 16px;
-                background-color: #523F40;
-            }
 
             .topnav.responsive .icon {
                 position: absolute;
@@ -962,4 +961,12 @@ header, nav, main, footer {
     .inner-mid-left-work {
         background-image: url(debt-meme2.3.jpg);
     }
+}
+
+@viewport {
+    width: device-width;
+}
+
+@=ms-viewport {
+    width: device-width;
 }
