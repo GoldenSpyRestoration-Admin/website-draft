@@ -789,6 +789,26 @@ header, nav, main, footer {
             height: 150px;
         }
 
+        .container-mid-about {
+            height: 800px;
+        }
+
+        img {
+            margin: 0.5em;
+        }
+
+        .container-mid-about-left {
+            padding: 0 1em;
+            width: 95%;
+            height: 750px;
+        }
+
+        .container-mid-about-right {
+            padding: 1em;
+            width: 95%;
+            height: 525px;
+        }
+
         .about {
             padding-top: 0.50em;
             font-size: 30px;
@@ -850,7 +870,7 @@ header, nav, main, footer {
         }
 
         .container-mid {
-            height: 350px;
+            height: 375px;
         }
 
         .inner-mid-left {
@@ -859,6 +879,7 @@ header, nav, main, footer {
             width: 45%;
             height: 275px;
             margin-top: 1.75em;
+            zoom: -1;
         }
 
         .inner-mid-right {
