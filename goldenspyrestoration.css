@@ -247,6 +247,14 @@ img {
     margin: 1em 1.5em 0.5em 1em;
 }
 
+.credit-score {
+    padding: 4em 2em 1em 6.5em;
+}
+
+.tricks {
+    padding: 0 0 1em 3.5em;
+}
+
 .container-mid-about-right {
     float: left;
     width: 45%;
@@ -790,22 +798,30 @@ header, nav, main, footer {
         }
 
         .container-mid-about {
-            height: 800px;
+            height: 1220px;
         }
 
         img {
             margin: 0.5em;
         }
 
+        .credit-score {
+            padding: 0.5em 2em 1em 6.5em;
+        }
+
+        .tricks {
+            padding: 0 0 0 2.5em;
+        }
+
         .container-mid-about-left {
             padding: 0 1em;
             width: 95%;
-            height: 750px;
+            height: 700px;
         }
 
         .container-mid-about-right {
-            padding: 1em;
-            width: 95%;
+            padding: 1.5em;
+            width: 90%;
             height: 525px;
         }
 
@@ -901,6 +917,11 @@ header, nav, main, footer {
 
         .container-bottom {
             height: 150px;
+        }
+
+        .container-bottom-about {
+            background-image: url(certified.2.jpeg);
+            height: 275px;
         }
 
         .review {
