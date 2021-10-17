@@ -385,6 +385,10 @@ img {
     padding: 2em;
 }
 
+h3 {
+    font-size: 24px;
+}
+
 .start {
     text-transform: uppercase;
     font-size: 28px;
@@ -1138,9 +1142,9 @@ header, nav, main, footer {
         height: 1500px;
     }
 
-    img{ 
+/*    img{ 
         padding: 0.5em 0 0 2.5em;
-    }
+    }*/
 
     .container-mid-about-right {
         padding: 1em;
@@ -1171,6 +1175,57 @@ header, nav, main, footer {
         float: right;
         width: 55%;
         padding-right: 0.5em;
+    }
+
+
+    .container-mid-affiliates {
+        height: 600px;
+    }
+
+    .container-mid-affiliates-top {
+        font-size: 20px;
+        padding: 0.3em;
+    }
+
+    .container-mid-affiliates-left {
+        height: 125px;
+        width: 80%;
+        padding: 2em 0 0 2.75em;
+    }
+
+    h3 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .container-mid-affiliates-right {
+        font-size: 16px;
+        height: 290px;
+        width: 90%;
+        padding-top: 0;
+    }
+
+    .re-direct-sc {
+        padding: 0 0 0 5em;
+    }
+
+
+    .re-direct-rr {
+        padding: 17.5em 0 0 5em;
+    }
+
+    .container-bottom-affiliates {
+        height: 525px;
+    }
+
+    .container-bottom-affiliates-left {
+        height: 200px;
+        width: 80%;
+    }
+
+    .container-bottom-affiliates-right {
+        width: 90%;
+        height: 300px;
     }
 
     .myBtn_multi {
