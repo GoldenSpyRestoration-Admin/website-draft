@@ -325,66 +325,64 @@ img {
 
 .container-mid-affiliates {
     padding-top: 0;
-    height: 500px;
+    height: 450px;
     width: 100%;
 }
 
 .container-mid-affiliates-top {
     width: 100%;
-    height: 250px;
-    padding: 1em 0 0 2em;
+    height: 125px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
 }
 
 .container-mid-affiliates-left {
     float: left;
-    height: 85px;
+    height: 125px;
     width: 30%;
-    padding: 4.5em 0 3em 2.5em;
+    padding: 8em 0 3em 2.5em;
 }
 
 .container-mid-affiliates-right {
     float: left;
-    height: 150px;
+    height: 250px;
     width: 61.5%;
     padding: 2em;
 }
 
+.studio {
+    font-weight: bold;
+}
 
 .re-direct-sc {
-    padding-left: 0.5em;
-    font-weight: bold;
+    padding: 7.5em 0 1em 1.5em;
     font-size: 13px;
 }
 
 .re-direct-rr {
-    padding-left: 0.25em;
-    font-weight: bold;
+    padding: 14em 0 1em 1.25em;
     font-size: 13px;
 }
 
 .container-bottom-affiliates {
     width: 100%;
-    height: 275px;
+    height: 300px;
+    padding-bottom: 1em;
 }
 
 .container-bottom-affiliates-left {
     float: left;
     height: 150px;
     width: 30%;
-    padding: 1.5em 0 4em 2.5em;
+    padding: 4em 0 4em 2.5em;
 }
 
 .container-bottom-affiliates-right {
     float: left;
-    height: 150px;
+    height: 225px;
     width: 61.5%;
     padding: 2em;
-}
-
-.start {
-    text-transform: uppercase;
-    font-size: 28px;
-    font-weight: bold;
 }
 
 .start {
@@ -420,7 +418,8 @@ footer {
     font-size: 1em;
     text-align: center;
     font-style: italic;
-    color: #523F40;
+    color: #F7EDDB;
+    background-color: #523F40;
 }
 
 h4 {
@@ -1116,26 +1115,42 @@ header, nav, main, footer {
 
     .container-top {
         margin-top: 2em;
+        padding-left: 0.5em;
+    }
+
+    .container-mid {
+        height: 325px;
     }
 
     .inner-mid-left {
         background-image: url(debt-meme.2.3.jpg);
-        width: 35%;
+        width: 30%;
+        padding-left: 0.25em;
     }
 
     .inner-mid-right {
         float: right;
-        width: 50%;
+        width: 60%;
+        padding-right: 0.5em;
+    }
+
+    .container-mid-about {
+        height: 1500px;
+    }
+
+    img{ 
+        padding: 0.5em 0 0 2.5em;
     }
 
     .container-mid-about-right {
         padding: 1em;
-        height: 650px;
+        height: 750px;
+        text-decoration: none;
     }
 
     .container-mid-about-left {
         padding: 0;
-        height: 700px;
+        height: 950px;
     }
 
     .inner-top-work-center {
@@ -1143,8 +1158,29 @@ header, nav, main, footer {
         height: 250px;
     }
 
+    .container-mid-work {
+        height: 300px;
+    }
+
     .inner-mid-left-work {
         background-image: url(debt-meme2.3.jpg);
+        width: 35%;
+    }
+
+    .inner-mid-right-work {
+        float: right;
+        width: 55%;
+        padding-right: 0.5em;
+    }
+
+    .myBtn_multi {
+        padding: 8px 10px;
+        font-size: 12px;
+    }
+
+    .myBtn_multi-two {
+        padding: 8px 10px;
+        font-size: 12px;
     }
 }
 
