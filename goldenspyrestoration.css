@@ -148,7 +148,7 @@ main {
 }
 
 .inner-top {
-    zoom: 1.3;
+    /*zoom: 1.3;*/
     padding-top: 4.5em;
     padding-left: 5em;
     color: white;
