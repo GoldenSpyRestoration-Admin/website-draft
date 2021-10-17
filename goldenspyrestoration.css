@@ -870,6 +870,7 @@ header, nav, main, footer {
 
         .about {
             padding-top: 0.50em;
+            padding-left: 0;
             font-size: 30px;
         }
 
