@@ -1115,7 +1115,7 @@ header, nav, main, footer {
     .phone {
         float: left;
         margin-top: 11.5em;
-        margin-left: -11em;
+        margin-left: -16.5em;
         padding: 8px 14px;
         display: inline-block;
         font-size: 14px;
@@ -1159,7 +1159,7 @@ header, nav, main, footer {
 
     .container-mid-about-right {
         padding: 1em;
-        height: 725px;
+        height: 700px;
         text-decoration: none;
     }
 
@@ -1170,7 +1170,7 @@ header, nav, main, footer {
 
     .inner-top {
         padding-top: 2em;
-        padding-left: 0;
+        padding-left: 1em;
         zoom: 0;
     }
 
