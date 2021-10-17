@@ -157,7 +157,6 @@ main {
 .smile {
     font-size: 48px;
     text-transform: uppercase;
-    text-align: left;
     color: #B36F2D;
 }
 
@@ -165,7 +164,6 @@ main {
     font-size: 64px;
     text-transform: uppercase;
     color: white;
-    text-align: left;
     padding-top: 0.25em;
 }
 
@@ -621,6 +619,7 @@ header, nav, main, footer {
     }
 
     .inner-top {
+        zoom: 0;
         padding-top: 2.5em;
         padding-left: 0;
     }
@@ -880,6 +879,7 @@ header, nav, main, footer {
         .inner-top {
             padding-top: 1em;
             padding-left: 0;
+            zoom: 0;
         }
 
         .smile {
@@ -1161,6 +1161,7 @@ header, nav, main, footer {
     .inner-top {
         padding-top: 1em;
         padding-left: 0;
+        zoom: 0;
     }
 
     .inner-top-work-center {
