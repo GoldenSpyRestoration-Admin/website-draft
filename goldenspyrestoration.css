@@ -1145,6 +1145,7 @@ header, nav, main, footer {
 
     .container-mid-about {
         height: 1500px;
+        background-color: blue;
     }
 
     .container-mid-about-right {
