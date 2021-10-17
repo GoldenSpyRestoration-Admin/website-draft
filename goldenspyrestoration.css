@@ -672,16 +672,7 @@ header, nav, main, footer {
     }
 
     .container-mid-about-right {
-        width: 40%;
-        padding: 2em 2em 0 2em;
-        height: 950px;
-    }
-
-    .container-mid-about-left {
-        width: 50%;
-        height: 950px;
-        padding: 0 0 1em 3em;
-        text-decoration: none;
+        padding: 2em;
     }
 
     .inner-top-work-right {
