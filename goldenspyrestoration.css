@@ -66,7 +66,7 @@ header {
 .phone {
     float: right;
     margin: 6em -11.5em;
-    background-color: #523F40;    
+    background-color: #523F40;
     border: none;
     color: #F7EDDB;
     padding: 15px 32px;
@@ -650,7 +650,7 @@ header, nav, main, footer {
     }
 
     .inner-mid-right {
-        float: right;        
+        float: right;
         width: 45%;
         height: 350px;
     }
@@ -753,356 +753,356 @@ header, nav, main, footer {
     }
 }
 
-    @media screen and (max-width: 850px) {
-        body {
-            margin: 0;
-            padding: 0;
-        }
-
-        #wrapper {
-            width: 100%;
-            min-width: 0;
-            margin: 0;
-            padding: 0;
-            border: none;
-        }
-
-        header {
-            background-image: url(new-logo3.2.png);
-            padding: 0.02em;
-            height: 150px;
-        }
-
-        .topnav {
-            background-color: #523F40;
-            color: #F7EDDB !important;
-        }
-
-            .topnav a {
-                padding: 14px 16px;
-                background-color: #523F40;
-            }
-
-            .topnav.responsive .icon {
-                position: absolute;
-                right: 0;
-                top: 0;
-            }
-
-        .active {
-            background-color: #523F40;
-            color: #F7EDDB !important;
-        }
-
-        .topnav.responsive a {
-            float: none;
-            display: block;
-            text-align: left;
-            background-color: #523F40;
-        }
-
-        .topnav.responsive {
-            display: block;
-            width: 100%;
-            text-align: left;
-            float: none;
-            position: relative;
-        }
-
-            .topnav.responsive a:hover {
-                background-color: #F2CFA7 !important;
-                color: #523F40 !important;
-            }
-
-        .call {
-            float: left;
-            font-size: 16px;
-            margin-left: 3em;
-            margin-top: 6.5em;
-        }
-
-        .phone {
-            float: left;
-            margin-top: 8em;
-            margin-left: -10em;
-            padding: 10px 16px;
-            display: inline-block;
-            border-radius: 4px;
-        }
-
-            .phone a {
-                color: #F7EDDB;
-            }
-
-        .container-top {
-            height: 300px;
-        }
-
-        .container-top-about {
-            height: 150px;
-        }
-
-        .container-mid-about {
-            height: 1400px;
-        }
-
-        img {
-            margin: 0.5em;
-        }
-
-        .credit-score {
-            padding: 0.5em 2em 1em 4em;
-        }
-
-        .tricks {
-            padding: 0 0 0 0.5em;
-        }
-
-        .container-mid-about-left {
-            padding: 0 1em;
-            width: 95%;
-            height: 750px;
-        }
-
-        .container-mid-about-right {
-            padding: 1.5em;
-            width: 90%;
-            height: 600px;
-        }
-
-        .about {
-            padding-top: 0.50em;
-            padding-left: 0;
-            font-size: 30px;            
-        }
-
-        .inner-top {
-            padding-top: 1em;
-            padding-left: 0;
-            zoom: 0;
-        }
-
-        .smile {
-            font-size: 28px;
-        }
-
-        .down {
-            font-size: 12px;
-        }
-
-        ul li {
-            text-transform: uppercase;
-            font-size: 12px;
-        }
-
-        .contact {
-            padding-top: 0;
-        }
-
-        h1 {
-            padding: 5px 10px 5px 10px;
-            font-size: 28px;
-        }
-
-        .spacer-header {
-            font-size: 18px;
-            text-transform: uppercase;
-            font-weight: bold;
-        }
-
-        .spacer {
-            padding-top: 0;
-            height: 600px;
-            width: 100%;
-            background-color: #523F40;
-        }
-
-        .spacer-left {
-            width: 93%;
-            padding: 1em 1em 0 1em;
-            height: 175px;
-        }
-
-        .spacer-center {
-            width: 93%;
-            height: 175px;
-        }
-
-        .spacer-right {
-            width: 93%;
-            height: 175px;
-        }
-
-        .container-mid {
-            height: 375px;
-        }
-
-        .inner-mid-left {
-            background-image: url(debt-meme.2.jpg);
-            margin-left: -0.25em;
-            width: 40%;
-            height: 275px;
-            margin-top: 1.75em;
-            zoom: -1;
-        }
-
-        .inner-mid-right {
-            float: right;
-            width: 50%;
-            height: 250px;
-            margin-left: 1em;
-            margin-top: 1.5em;
-        }
-
-        .container-top-work {
-            height: 850px;
-        }
-
-        .inner-top-work-right {
-            background-image: url(debt-meme5.2.jpg);
-            width: 100%;
-            padding: 0;
-            height: 275px;
-        }
-
-        .inner-top-work-center {
-            width: 100%;
-            padding: 0 0 0 6em;
-            height: 275px;
-        }
-
-        .inner-top-work-left {
-            background-image: url(debt-meme1.2.jpg);
-            width: 100%;
-            padding: 0;
-            height: 275px;
-        }
-
-        .container-mid-work {
-            height: 300px;
-        }
-
-        .inner-mid-left-work {
-            background-image: url(debt-meme2.2.jpg);
-            margin-left: -0.25em;
-            width: 40%;
-            height: 250px;
-            margin-top: 0;
-            zoom: -1;
-        }
-
-        .inner-mid-right-work {
-            width: 50%;
-            height: 175px;
-            margin-left: 1em;
-            margin-top: 3.5em;
-        }
-
-        .start {
-            font-size: 12px;
-        }
-
-        .container-bottom {
-            height: 150px;
-        }
-
-        .container-bottom-about {
-            background-image: url(certified.2.jpeg);
-            height: 275px;
-        }
-
-        .re-direct-sc {
-            padding: 9em 0 0 3.5em;
-            font-size: 10px;
-        }
-
-        .re-direct-rr {
-            padding: 17.5em 0 0 3.5em;
-            font-size: 10px;
-        }
-
-        .container-mid-affiliates {
-            height: 400px;
-        }
-
-        .container-mid-affiliates-left {
-            height: 100px;
-            width: 100%;
-            padding: 0 0 0 3.25em;            
-        }
-
-        .container-mid-affiliates-right {
-            width: 95%;
-            padding: 1em;
-        }
-
-        .container-bottom-affiliates {
-            height: 500px;
-        }
-
-        .container-bottom-affiliates-left {
-            height: 175px;
-            width: 100%;
-            padding: 0 0 0 3.25em;
-        }
-
-        .container-bottom-affiliates-right {
-            width: 95%;
-            padding: 1em;
-        }
-
-        .review {
-            padding-top: 1em;
-            font-size: 16px;
-        }
-
-        footer {
-            font-size: 10px;
-        }
-
-        h4 {
-            text-transform: uppercase;
-        }
-
-        /* MODAL CONTENT */
-        .modal-content {
-            padding: 0;
-            width: 90%;
-        }
-
-        /* CLOSE BUTTON */
-        .close {
-            font-size: 18px;
-        }
-
-        .myBtn_multi {
-            padding: 10px 16px;
-            font-size: 14px;
-            border-radius: 4px;
-        }
-
-        .myBtn_multi-two {
-            padding: 10px 16px;
-            font-size: 14px;
-            border-radius: 4px;
-        }
-
-        h3 {
-            font-size: 18px;
-        }
-
-        h4 {
-            font-size: 14px;
-        }
-
-        p {
-            font-size: 12px;
-        }
-
-        .webform-lead-contact {
-            height: 1000px;
-        }
+@media screen and (max-width: 850px) {
+    body {
+        margin: 0;
+        padding: 0;
     }
+
+    #wrapper {
+        width: 100%;
+        min-width: 0;
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+
+    header {
+        background-image: url(new-logo3.2.png);
+        padding: 0.02em;
+        height: 150px;
+    }
+
+    .topnav {
+        background-color: #523F40;
+        color: #F7EDDB !important;
+    }
+
+        .topnav a {
+            padding: 14px 16px;
+            background-color: #523F40;
+        }
+
+        .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+
+    .active {
+        background-color: #523F40;
+        color: #F7EDDB !important;
+    }
+
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+        background-color: #523F40;
+    }
+
+    .topnav.responsive {
+        display: block;
+        width: 100%;
+        text-align: left;
+        float: none;
+        position: relative;
+    }
+
+        .topnav.responsive a:hover {
+            background-color: #F2CFA7 !important;
+            color: #523F40 !important;
+        }
+
+    .call {
+        float: left;
+        font-size: 16px;
+        margin-left: 3em;
+        margin-top: 6.5em;
+    }
+
+    .phone {
+        float: left;
+        margin-top: 8em;
+        margin-left: -10em;
+        padding: 10px 16px;
+        display: inline-block;
+        border-radius: 4px;
+    }
+
+        .phone a {
+            color: #F7EDDB;
+        }
+
+    .container-top {
+        height: 300px;
+    }
+
+    .container-top-about {
+        height: 150px;
+    }
+
+    .container-mid-about {
+        height: 1400px;
+    }
+
+    img {
+        margin: 0.5em;
+    }
+
+    .credit-score {
+        padding: 0.5em 2em 1em 4em;
+    }
+
+    .tricks {
+        padding: 0 0 0 0.5em;
+    }
+
+    .container-mid-about-left {
+        padding: 0 1em;
+        width: 95%;
+        height: 750px;
+    }
+
+    .container-mid-about-right {
+        padding: 1.5em;
+        width: 90%;
+        height: 600px;
+    }
+
+    .about {
+        padding-top: 0.50em;
+        padding-left: 0;
+        font-size: 30px;
+    }
+
+    .inner-top {
+        padding-top: 1em;
+        padding-left: 0;
+        zoom: 0;
+    }
+
+    .smile {
+        font-size: 28px;
+    }
+
+    .down {
+        font-size: 12px;
+    }
+
+    ul li {
+        text-transform: uppercase;
+        font-size: 12px;
+    }
+
+    .contact {
+        padding-top: 0;
+    }
+
+    h1 {
+        padding: 5px 10px 5px 10px;
+        font-size: 28px;
+    }
+
+    .spacer-header {
+        font-size: 18px;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    .spacer {
+        padding-top: 0;
+        height: 600px;
+        width: 100%;
+        background-color: #523F40;
+    }
+
+    .spacer-left {
+        width: 93%;
+        padding: 1em 1em 0 1em;
+        height: 175px;
+    }
+
+    .spacer-center {
+        width: 93%;
+        height: 175px;
+    }
+
+    .spacer-right {
+        width: 93%;
+        height: 175px;
+    }
+
+    .container-mid {
+        height: 375px;
+    }
+
+    .inner-mid-left {
+        background-image: url(debt-meme.2.jpg);
+        margin-left: -0.25em;
+        width: 40%;
+        height: 275px;
+        margin-top: 1.75em;
+        zoom: -1;
+    }
+
+    .inner-mid-right {
+        float: right;
+        width: 50%;
+        height: 250px;
+        margin-left: 1em;
+        margin-top: 1.5em;
+    }
+
+    .container-top-work {
+        height: 850px;
+    }
+
+    .inner-top-work-right {
+        background-image: url(debt-meme5.2.jpg);
+        width: 100%;
+        padding: 0;
+        height: 275px;
+    }
+
+    .inner-top-work-center {
+        width: 100%;
+        padding: 0 0 0 6em;
+        height: 275px;
+    }
+
+    .inner-top-work-left {
+        background-image: url(debt-meme1.2.jpg);
+        width: 100%;
+        padding: 0;
+        height: 275px;
+    }
+
+    .container-mid-work {
+        height: 300px;
+    }
+
+    .inner-mid-left-work {
+        background-image: url(debt-meme2.2.jpg);
+        margin-left: -0.25em;
+        width: 40%;
+        height: 250px;
+        margin-top: 0;
+        zoom: -1;
+    }
+
+    .inner-mid-right-work {
+        width: 50%;
+        height: 175px;
+        margin-left: 1em;
+        margin-top: 3.5em;
+    }
+
+    .start {
+        font-size: 12px;
+    }
+
+    .container-bottom {
+        height: 150px;
+    }
+
+    .container-bottom-about {
+        background-image: url(certified.2.jpeg);
+        height: 275px;
+    }
+
+    .re-direct-sc {
+        padding: 9em 0 0 3.5em;
+        font-size: 10px;
+    }
+
+    .re-direct-rr {
+        padding: 17.5em 0 0 3.5em;
+        font-size: 10px;
+    }
+
+    .container-mid-affiliates {
+        height: 400px;
+    }
+
+    .container-mid-affiliates-left {
+        height: 100px;
+        width: 100%;
+        padding: 0 0 0 3.25em;
+    }
+
+    .container-mid-affiliates-right {
+        width: 95%;
+        padding: 1em;
+    }
+
+    .container-bottom-affiliates {
+        height: 500px;
+    }
+
+    .container-bottom-affiliates-left {
+        height: 175px;
+        width: 100%;
+        padding: 0 0 0 3.25em;
+    }
+
+    .container-bottom-affiliates-right {
+        width: 95%;
+        padding: 1em;
+    }
+
+    .review {
+        padding-top: 1em;
+        font-size: 16px;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+
+    h4 {
+        text-transform: uppercase;
+    }
+
+    /* MODAL CONTENT */
+    .modal-content {
+        padding: 0;
+        width: 90%;
+    }
+
+    /* CLOSE BUTTON */
+    .close {
+        font-size: 18px;
+    }
+
+    .myBtn_multi {
+        padding: 10px 16px;
+        font-size: 14px;
+        border-radius: 4px;
+    }
+
+    .myBtn_multi-two {
+        padding: 10px 16px;
+        font-size: 14px;
+        border-radius: 4px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    h4 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .webform-lead-contact {
+        height: 1000px;
+    }
+}
 
 @media screen and (max-width: 850px) {
     header {
@@ -1145,20 +1145,17 @@ header, nav, main, footer {
 
     .container-mid-about {
         height: 1500px;
-        background-color: blue;
     }
 
     .container-mid-about-right {
         padding: 1em;
         height: 675px;
         text-decoration: none;
-        background-color: red;
     }
 
     .container-mid-about-left {
         padding: 0 0 0 0.75em;
         height: 750px;
-        background-color: green;
     }
 
     .inner-top {
