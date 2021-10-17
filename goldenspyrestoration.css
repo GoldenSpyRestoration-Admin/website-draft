@@ -941,7 +941,7 @@ header, nav, main, footer {
 
     .inner-mid-left {
         background-image: url(debt-meme.2.jpg);
-        margin-left: -0.25em;
+        margin-left: 0.5em;
         width: 40%;
         height: 275px;
         margin-top: 1.75em;
@@ -950,7 +950,7 @@ header, nav, main, footer {
 
     .inner-mid-right {
         float: right;
-        width: 50%;
+        width: 60%;
         height: 250px;
         margin-left: 1em;
         margin-top: 3em;
@@ -986,7 +986,7 @@ header, nav, main, footer {
 
     .inner-mid-left-work {
         background-image: url(debt-meme2.2.jpg);
-        margin-left: -0.25em;
+        margin-left: 0.5em;
         width: 40%;
         height: 250px;
         margin-top: 0;
@@ -994,7 +994,7 @@ header, nav, main, footer {
     }
 
     .inner-mid-right-work {
-        width: 50%;
+        width: 60%;
         height: 175px;
         margin-left: 1em;
         margin-top: 3.5em;
@@ -1105,6 +1105,7 @@ header, nav, main, footer {
         height: 1000px;
     }
 }
+
 
 @media screen and (max-width: 800px) {
     header {
