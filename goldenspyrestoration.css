@@ -1112,8 +1112,8 @@ header, nav, main, footer {
 
     .phone {
         float: left;
-        margin-top: 9.5em;
-        margin-left: -10em;
+        margin-top: 11.5em;
+        margin-left: -11em;
         padding: 8px 14px;
         display: inline-block;
         font-size: 14px;
@@ -1132,6 +1132,18 @@ header, nav, main, footer {
         background-image: url(debt-meme.2.3.jpg);
         width: 30%;
         padding-left: 0.25em;
+    }
+
+    .spacer-left {
+        padding: 0;
+    }
+
+    .spacer-center {
+        padding: 0;
+    }
+
+    .spacer-right {
+        padding: 0;
     }
 
     .inner-mid-right {
