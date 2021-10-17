@@ -157,6 +157,7 @@ main {
 .smile {
     font-size: 48px;
     text-transform: uppercase;
+    text-align: left;
     color: #B36F2D;
 }
 
@@ -164,6 +165,7 @@ main {
     font-size: 64px;
     text-transform: uppercase;
     color: white;
+    text-align: left;
     padding-top: 0.25em;
 }
 
@@ -872,7 +874,7 @@ header, nav, main, footer {
         .about {
             padding-top: 0.50em;
             padding-left: 0;
-            font-size: 30px;
+            font-size: 30px;            
         }
 
         .inner-top {
