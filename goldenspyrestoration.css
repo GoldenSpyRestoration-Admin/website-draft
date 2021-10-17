@@ -1151,6 +1151,7 @@ header, nav, main, footer {
         padding: 1em;
         height: 675px;
         text-decoration: none;
+        background-color: red;
     }
 
     .container-mid-about-left {
