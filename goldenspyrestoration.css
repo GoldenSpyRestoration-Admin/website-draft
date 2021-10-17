@@ -752,7 +752,7 @@ header, nav, main, footer {
     }
 }
 
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 850px) {
         body {
             margin: 0;
             padding: 0;
@@ -1102,7 +1102,7 @@ header, nav, main, footer {
         }
     }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 850px) {
     header {
         background-image: url(new-logo3.4.png);
         padding: 0;
