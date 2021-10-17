@@ -1149,12 +1149,12 @@ header, nav, main, footer {
 
     .container-mid-about-right {
         padding: 1em;
-        height: 750px;
+        height: 700px;
         text-decoration: none;
     }
 
     .container-mid-about-left {
-        padding: 0;
+        padding: 0 0 0 0.5em;
         height: 950px;
     }
 
@@ -1186,6 +1186,7 @@ header, nav, main, footer {
 
 
     .container-mid-affiliates {
+        padding-top: 0.25em;
         height: 600px;
     }
 
