@@ -61,12 +61,14 @@ header {
     font-size: 28px;
     margin-right: 6.5em;
     margin-top: 2em;
+    background-color: red;
 }
 
 .phone {
     float: right;
     margin: 6em -11.5em;
-    background-color: #523F40;
+    /*    background-color: #523F40;*/
+    background-color: red;
     border: none;
     color: #F7EDDB;
     padding: 15px 32px;
