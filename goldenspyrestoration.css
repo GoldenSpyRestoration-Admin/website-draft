@@ -709,7 +709,7 @@ header, nav, main, footer {
     }
 
     .container-mid-affiliates {
-        height: 550px;
+        height: 500px;
     }
 
     .container-mid-affiliates-top {
@@ -717,30 +717,29 @@ header, nav, main, footer {
     }
 
     .container-mid-affiliates-left {
-        padding: 10.5em 0 3em 0.5em;
-        width: 50%;
+        padding: 4.5em 0 3em 0.5em;
+        width: 35%;
         height: 200px;
     }
 
     .container-mid-affiliates-right {
-        width: 40%;
+        width: 55%;
         height: 300px;
     }
 
     .container-bottom-affiliates {
         height: 240px;
-        height: 550px;
+        height: 350px;
     }
 
     .container-bottom-affiliates-left {
-        padding: 8.5em 0 3em 0.5em;
-        width: 50%;
-        height: 350px;
-        background-color: red;
+        padding: 1.5em 0 3em 0.5em;
+        width: 35%;
+        height: 200px;
     }
 
     .container-bottom-affiliates-right {
-        width: 40%;
+        width: 55%;
         height: 300px;
     }
 
@@ -1043,7 +1042,7 @@ header, nav, main, footer {
     }
 
     .container-bottom-affiliates {
-        height: 390px;
+        height: 400px;
     }
 
     .container-bottom-affiliates-left {
