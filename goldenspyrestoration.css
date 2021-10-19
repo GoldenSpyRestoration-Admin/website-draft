@@ -370,7 +370,6 @@ img {
     width: 100%;
     height: 400px;
     padding-bottom: 1em;
-    background-color: green;
 }
 
 .container-bottom-affiliates-left {
@@ -378,7 +377,6 @@ img {
     height: 250px;
     width: 30%;
     padding: 4em 0 4em 2.5em;
-    background-color: red;
 }
 
 .container-bottom-affiliates-right {
@@ -386,7 +384,6 @@ img {
     height: 300px;
     width: 61.5%;
     padding: 2em;
-    background-color: yellow;
 }
 
 h3 {
@@ -712,7 +709,7 @@ header, nav, main, footer {
     }
 
     .container-mid-affiliates {
-        height: 500px;
+        height: 550px;
     }
 
     .container-mid-affiliates-top {
@@ -720,29 +717,30 @@ header, nav, main, footer {
     }
 
     .container-mid-affiliates-left {
-        padding: 4.5em 0 3em 0.5em;
-        width: 35%;
+        padding: 10.5em 0 3em 0.5em;
+        width: 50%;
         height: 200px;
     }
 
     .container-mid-affiliates-right {
-        width: 55%;
+        width: 40%;
         height: 300px;
     }
 
     .container-bottom-affiliates {
         height: 240px;
-        height: 350px;
+        height: 550px;
     }
 
     .container-bottom-affiliates-left {
-        padding: 1.5em 0 3em 0.5em;
-        width: 35%;
-        height: 200px;
+        padding: 8.5em 0 3em 0.5em;
+        width: 50%;
+        height: 250px;
+        background-color: red;
     }
 
     .container-bottom-affiliates-right {
-        width: 55%;
+        width: 40%;
         height: 300px;
     }
 
