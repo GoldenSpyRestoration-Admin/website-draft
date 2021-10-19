@@ -855,7 +855,7 @@ header, nav, main, footer {
     .container-mid-about-right {
         padding: 1.5em;
         width: 90%;
-        height: 350px;
+        height: 400px;
     }
 
     .about {
@@ -1155,7 +1155,7 @@ header, nav, main, footer {
     }
 
     .container-mid-about {
-        height: 1425px;
+        height: 1625px;
     }
 
     .credit-score {
@@ -1168,8 +1168,9 @@ header, nav, main, footer {
 
     .container-mid-about-right {
         padding: 1em;
-        height: 700px;
+        height: 850px;
         text-decoration: none;
+        zoom: -1.5;
     }
 
     .container-mid-about-left {
