@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Contact DevDotCom</title>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="devdotcom.css">
+
+</head>
+
+<body>
+    <div id="wrapper">
+
+        <header>
+            <h1>Welcome to DevDotCom</h1>
+        </header>
+
+        <nav>
+            <div class="topnav" id="myTopnav">
+                <a href="index.html">Home</a>
+               <!-- <a href="app_dev.html">Application Development</a>-->
+                <a href="web_design.html">Web Design</a>
+                <a href="contact_us.html" class="active">Contact Us</a>
+                <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+            </div>
+
+            <script>
+                function myFunction() {
+                    var x = document.getElementById("myTopnav");
+                    if (x.className === "topnav") {
+                        x.className += " responsive";
+                    } else {
+                        x.className = "topnav";
+                    }
+                }
+            </script>
+        </nav>
+
+        <div id="hero"></div>
+
+        <main>
+            <h2>Contact DevDotCom</h2>
+            <p>Please complete this form in a decent manner.</p>
+
+            <form action="https://formspree.io/f/xdoyzjwr"
+                  method="post">
+
+                <label>Name:</label>
+                <input name="name" placeholder="Type Here">
+
+                <label>Email:</label>
+                <input name="email" type="email" placeholder="Type Here">
+
+                <label>Message:</label>
+                <textarea name="message" placeholder="Type Here"></textarea>
+                <div class="center">
+                <input id="submit" name="submit" type="submit" value="Submit">
+                </div>
+            </form>
+
+            <br><br><br>
+                <div class="center">
+                    <div id="clear">                    
+                        <span class="studio">DevDotCom</span><br>
+                        <a id="mobile" href="tel:727-492-6944">(727) 492-6944</a> <span id="desktop">(727) 492-6944</span><br>
+                    </div>
+                </div>
+        </main>
+
+        <footer>
+            Copyright &copy; 2021 DevDotCom <br>
+            <a href="mailto:info@devdotcom.net">info@devdotcom.net</a>
+        </footer>
+
+    </div>
+</body>
+</html>

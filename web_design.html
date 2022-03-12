@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DevDotCom Web Design</title>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="devdotcom.css">
+
+</head>
+
+<body>
+    <div id="wrapper">
+
+        <header>
+            <h1>Welcome to DevDotCom</h1>
+        </header>
+
+        <nav>
+            <div class="topnav" id="myTopnav">
+                <a href="index.html">Home</a>
+                <!--<a href="app_dev.html">Application Development</a>-->
+                <a href="web_design.html" class="active">Web Design</a>
+                <a href="contact_us.html">Contact Us</a>
+                <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+            </div>
+
+            <script>
+                function myFunction() {
+                    var x = document.getElementById("myTopnav");
+                    if (x.className === "topnav") {
+                        x.className += " responsive";
+                    } else {
+                        x.className = "topnav";
+                    }
+                }
+            </script>
+        </nav>
+
+        <div id="hero"></div>
+
+        <main>
+                <h2>Web Development</h2>
+
+                <div class="container">
+                    <p>
+                        At DevDotCom we are passionate about connecting you with your clients.
+                        We are your one stop shop for professional design that goes beyond visual
+                        appeal. Our web development is built around the User Experience (UX), as
+                        well as meeting the needs of your company.
+                    </p>
+
+                    <p>
+                        Since we are a small, we are more flexible and
+                        able to make the changes necessary to make what works for you, work for us!
+                        We take the time to understand your unique needs and goals. As well as
+                        delivering websites that create a meaningful relationship between you
+                        and your clients.
+                    </p>
+                </div>
+
+                <div id="grid">
+
+                    <!--one-->
+                    <div class="gallery">
+                        <a target="_blank" href="https://goldenspyrestoration.com/">
+                            <img src="img1.jpg" alt="image1">
+                        </a>
+                        <div class="desc">Golden Spy Restoration Services</div>
+                    </div>
+
+                    <!--two-->
+                    <div class="gallery">
+                        <a target="_blank" href="https://www.precision-installers.plus/">
+                            <img src="img2.jpg" alt="image2">
+                        </a>
+                        <div class="desc">Precision Installer Plus</div>
+                    </div>
+                </div>
+
+                <div class="center">
+                    <div id="clear">
+                        <span class="studio">DevDotCom</span><br>
+                        <a id="mobile" href="tel:727-492-6944">(727) 492-6944</a> <span id="desktop">(727) 492-6944</span><br>
+                    </div>
+                </div>
+        </main>
+
+        <footer>
+            Copyright &copy; 2021 DevDotCom <br>
+            <a href="mailto:info@devdotcom.net">info@devdotcom.net</a>
+        </footer>
+
+    </div>
+</body>
+</html>
